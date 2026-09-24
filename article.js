@@ -272,7 +272,7 @@ async function getArticle() {
 
 
         document.title =
-            `${data.title || "文章"} - 彭博社 · 创新点子王`;
+            `${data.title || "文章"} - 彭博社 · 创新速讯`;
 
 
     } catch (error) {
